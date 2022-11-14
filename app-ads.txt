@@ -9,6 +9,18 @@ applovin.com, 42f25c030aa6b93a8695d9bd7222ff69, DIRECT
 #mintegral
 mintegral.com, 31864, DIRECT
 #unity ads
+appnexus.com, 12976, RESELLER, f5ab79cb980f11d1
+criteo.com, B-063105, RESELLER, 9fac4a4a87c2a44f
+inmobi.com, 3a4f7da341dd490cbb7dde02b126275e, RESELLER, 83e75a7ae333ca9d
+Pubmatic.com, 157704, RESELLER, 5d62403b186f2ace
+pubmatic.com, 158481, RESELLER, 5d62403b186f2ace
+pubmatic.com, 158565, RESELLER, 5d62403b186f2ace
+telaria.com, rwd19-4359044, RESELLER, 1a4e959a1b50034a
+tremorhub.com, rwd19-4359044, RESELLER, 1a4e959a1b50034a
+unity.com, 4359044, DIRECT, 96cabb5fbdde37a7
+video.unrulymedia.com, 170071695, RESELLER
+xandr.com, 8804, RESELLER, f5ab79cb980f11d1
+Xapads.com, 117219, RESELLER
 advlion.com, 3054, RESELLER
 advlion.com, 3083, RESELLER
 advlion.com, 3108, RESELLER
